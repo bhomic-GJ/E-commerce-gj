@@ -1,0 +1,36 @@
+E Commerce Project
+Content Selling Website
+
+Idea :
+
+Features : 
+	Must Have:
+		Authentication Page : 
+			Login
+			Sign Up
+	
+		List Product/Service Page
+			Searh Bar : Good Search Algorithm
+	
+		Product/Service Detail Page
+			
+
+	Can Have:
+		Authentication Page : 
+			Password Reset
+
+Basic App Structure:
+	Landing Page:
+		Hero Section
+			Dynamic Banner
+		Offer Section
+		Footer
+
+
+Technology Stack to be used[Full Stack]: 
+	React
+	Node Js 
+	HTML
+	CSS
+	JS
+	Mongo DB
