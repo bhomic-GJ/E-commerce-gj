@@ -1,5 +1,7 @@
 E Commerce Project
 Content Selling Website
+	Description:
+		We will create a platform that will allow writers to write content and a gist of that content will be shown. The magzine owners and the publishers can then look for the related content on this website and if found can pay for it and the writers will be then able to create some profit by writing. This platform will not be limited to english stories and will also allow hindi stories to be sold as well... also hindi / english poems... in order to encourage writers
 
 Idea :
 
